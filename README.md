@@ -1,16 +1,16 @@
-# jokenpo2
+# Jokenpo
 
-A new Flutter project.
+## Descrição
+Este projeto é o primeiro aplicativo desenvolvido pelos alunos do curso de Sistemas de Informação da UNIBALSAS, como parte da disciplina de Programação para Dispositivos Móveis. O aplicativo "Jokenpo" foi criado com o objetivo de proporcionar uma experiência prática e completa de desenvolvimento mobile, utilizando as tecnologias Flutter e Dart. O projeto inclui a implementação do jogo Jokenpo, além de uma introdução ao padrão de arquitetura MVC (Model-View-Controller).
 
-## Getting Started
+## Funcionalidades Principais
+- **Jogo de Jokenpo:** Implementação completa do jogo Jokenpo (Pedra, Papel, Tesoura), onde o usuário pode jogar contra o aplicativo.
+- **Interface Responsiva:** UI intuitiva e responsiva, adaptada para diferentes tamanhos de tela.
+- **Introdução ao MVC:** Implementação que demonstra os conceitos básicos do padrão de arquitetura MVC, separando a lógica do jogo (Model), a interface do usuário (View) e o controle das interações (Controller).
 
-This project is a starting point for a Flutter application.
+## Tecnologias Utilizadas
+- **Flutter:** Framework utilizado para o desenvolvimento da interface e lógica do aplicativo.
+- **Dart:** Linguagem de programação utilizada para a implementação do backend do aplicativo.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Professor
+Marcos David Souza Ramos
